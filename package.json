@@ -1,6 +1,6 @@
 {
   "name": "good-hapi-graylog2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": "git://github.com/gleip/good-hapi-graylog2",
   "description": "Graylog GELF broadcasting for Good process monitor",
   "main": "lib/index.js",

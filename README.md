@@ -38,6 +38,7 @@ const goodOptions = {
         port: '<graylog server port>',
         facility: '<your service name>',
         hostname: '<your host>',
+        bufferSize: '<your buffer size>' // optional, default 1400
       }],
     }],
   },
