@@ -39,6 +39,7 @@ const goodOptions = {
         facility: '<your service name>',
         hostname: '<your host>',
         bufferSize: '<your buffer size>' // optional, default 1400
+        adapter: '<protocol udp or tcp>' // optional, default udp
       }],
     }],
   },
