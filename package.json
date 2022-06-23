@@ -19,7 +19,7 @@
     "eslint-plugin-react": "^7.1.0"
   },
   "peerDependencies": {
-    "good": "7.x.x"
+    "good": "8.x.x"
   },
   "engines": {
     "node": ">=7.0.0"
